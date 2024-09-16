@@ -1,6 +1,8 @@
 # 3D Aim Trainer
 
 Inspired by AimLabs and Kovaaks (since I play alot of Counter Strike)
+
+
 A simple 3D aim trainer game built with React and Three.js. The game features a space-themed background, a circular crosshair overlay, and targets that players need to shoot to score points. The game includes a timer and a restart button.
 
 ## Features
