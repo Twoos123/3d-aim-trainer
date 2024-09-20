@@ -1,5 +1,7 @@
 # 3D Aim Trainer
 
+WIP
+
 Inspired by AimLabs and Kovaaks (since I play alot of Counter Strike)
 
 
